@@ -6,8 +6,8 @@ layout: page
 
 Current Class:
 
-<a class="button is-large is-fullwidth is-info is-rounded" href="https://less-lab-uva.github.io/CS4501-Spring2022">
-    Spring 2022
+<a class="button is-large is-fullwidth is-info is-rounded" href="https://less-lab-uva.github.io/CS4501-Fall2022">
+    Fall 2022
 </a>
 
 Archives:
